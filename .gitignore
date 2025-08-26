@@ -1,0 +1,27 @@
+# Build directories
+build/
+libs/external
+
+*.o
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.tmp
+*.log
+
+*.exe
+*.out
+
+build/**/*.a
+build/**/*.lib
+build/**/*.dll
+
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+.vscode/
